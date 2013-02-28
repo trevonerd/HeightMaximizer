@@ -40,7 +40,6 @@
 	        // ----------
 
 	        tempHeight = parseInt(maxheight) - parseInt(borderbottom) - parseInt(bordertop)
-	        alert(tempHeight);
 	        $(this).height(tempHeight);
 		});
   	
